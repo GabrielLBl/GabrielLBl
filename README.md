@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel,+mas+pode+me+chamar+de+GB.;Tenho+20+anos.;Moro+em+Sorocaba.;Sou+estudante+de+Bakc-end+e+Bnaco+de+dados.;Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel,+mas+pode+me+chamar+de+GB.;Tenho+20+anos.;Moro+em+Sorocaba.;Sou+estudante+de+Back-end+e+Banco+de+dados.;Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 
 <h2> :globe_with_meridians: Front-end:</h2>
