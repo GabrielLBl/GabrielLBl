@@ -15,6 +15,7 @@
 <h2> :milky_way: Back-end:</h2>
 <div style="display: inline_block" align="center">  
   <img align="center" alt="C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Csharp" height="50" width="70" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"/>
   <img align="center" alt="Oracle SQL" height="47" width="70" src="https://user-images.githubusercontent.com/87160095/199339101-f632e940-ba2a-482b-8ddb-0de21785d7b1.svg"/>
   <img align="center" alt="Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Python" height="50" width="100" src="https://user-images.githubusercontent.com/94317936/223279499-fb355c7d-b877-4fe9-b7f7-41b683e7bb20.png"/>
